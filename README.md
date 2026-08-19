@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrjayj123&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Madscie254&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Mrjayj123?style=for-the-badge&color=6366f1&labelColor=1e1b4b" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-6366f1?style=for-the-badge" alt="Focus"/>
 </p>
