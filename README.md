@@ -72,7 +72,7 @@ me = DataScientist()
 ## 🛠️ Tech Stack & Tools
 
 <details open>
-<summary><b>🐍 Languages & Frameworks</b></summary>
+<summary><b>🐍 Languages and Frameworks</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,r,js,ts,react" />
