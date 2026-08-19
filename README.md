@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Joel%20Ongango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Engineer%20Backend%20%Developer7C%20Tech%20Leader&descAlignY=52&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Joel%20Ongango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Engineer%20Backend%20%De%20%veloper%20Tech%20Leader&descAlignY=52&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Real+Scalable+Solutions;Building+Neural+Networks+%26+Deep+Learning+Models;5%2B+Years+of+Data+Science+Experience;MSc+Data+Science+Candidate;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Real+Scalable+Solutions;2%2B+Years+of+Software+Development+Experience;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
